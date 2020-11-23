@@ -1,5 +1,5 @@
 # CadastroClientes
-Projeto de alteração de campos de cadastro e criação de modal.
+Projeto de alteração de campos de cadastro e criação de modal de um projeto de cadastro de clientes já existente.
 
 # O que foi feito
 - Criação de mascára para campos de CEP e CPF;
